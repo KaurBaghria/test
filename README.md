@@ -21,70 +21,21 @@ Give the example
 ## Content
 
 [Content](./README1.md)
-
-## Content
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### Content
-
-Explain here
-
-```
-Give an example
-```
-
-## Content
-
-Explain here
-
-```
-Give an example
-```
-
-## Content
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Content
-
-Explain here
-
-```
-Give an example
-```
-## Content
-Explain here
-
-```
-Give an example
-```
+[Content](./README2.md)
+[Content](./README3.md)
+[Content](./README4.md)
+[Content](./README5.md)
+[Content](./README6.md)
+[Content](./README7.md)
+[Content](./README8.md)
+[Content](./README10.md)
+[Content](./README11.md)
+[Content](./README12.md)
+[Content](./README13.md)
+[Content](./README14.md)
+[Content](./README15.md)
+[Content](./README16.md)
+[Content](./README17.md)
 
 
-## Content
 
-Explain here
-
-```
-Give an example
-```
-
-## Content
-Explain here
-
-```
-Give an example
-```
-
-## Content
-Explain here
-
-```
-Give an example
-```
